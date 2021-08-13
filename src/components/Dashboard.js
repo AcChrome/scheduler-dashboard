@@ -38,11 +38,6 @@ const data = [
 ];
 
 class Dashboard extends Component {
-  // constructor(props) {
-  //   super(props);
-
-  //   this.selectPanel = this.selectPanel.bind(this);
-  // }
 
   state = {
     loading: true,
